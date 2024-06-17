@@ -9,4 +9,4 @@ dependencies:
     git:
       url: https://github.com/MyLittleSuite/pine_bricks.git
       path: pine_bricks_helper
-      ref: 86ab178b47759e3f88eeff4a82edf6d2719096e2
+      ref: master
